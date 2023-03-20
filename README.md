@@ -13,7 +13,7 @@ windows:
 ```
 linux: 
 ```
-.env/bin/activate
+source .env/bin/activate
 ```
 
 3. Подключаем необходимые библиотеки:
